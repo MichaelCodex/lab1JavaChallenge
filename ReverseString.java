@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class ReverseString{
 	
 	    public static void main(String[] args) {
-		    //The scanner reader class allows us to read an input (string) from the user.
+		//The scanner reader class allows us to read an input (string) from the user.
 	        Scanner read = new Scanner(System.in);
 	        System.out.println("Enter string to reverse:");
 	        String str = read.nextLine();
