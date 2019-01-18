@@ -1,6 +1,6 @@
 
 public class StringLength {  
-	
+	/**this method accepts a string (input) as an input and returns the length of the string*/
 	public static int stringLen ( String input ) {
 		
 		int strLength = input.length(); //This line stores the length of the input
