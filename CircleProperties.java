@@ -5,7 +5,7 @@ public class CircleProperties {
 	
 	public static void main(String[] args) {
 		
-		Scanner reader = new Scanner(System.in);
+	Scanner reader = new Scanner(System.in);
         System.out.println("Enter your radius:");
         double radius = reader.nextDouble();
         reader.close();
