@@ -11,8 +11,8 @@ public class CircleProperties {
         double circleArea= (Math.PI * (radius * radius));//calculation of area
         double circleCircumference= (2* Math.PI * radius);//calculaton of circumference
         
-        System.out.println(String.format("%.2f",circleArea));
-        System.out.println(String.format("%.2f",circleCircumference));
+        System.out.println(String.format("%.2f",circleArea) + " is the area of the circle.");
+        System.out.println(String.format("%.2f",circleCircumference)+ " is the circumference of the circle.");
        
     	}
 	}
