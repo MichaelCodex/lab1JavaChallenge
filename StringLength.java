@@ -14,8 +14,8 @@ public class StringLength {
 			return strLength;
 	}
     public static void main(String[] args) {  
-    	System.out.println(StringLength.stringLen("Michael"));
-    	
+    	System.out.println(StringLength.stringLen("Michael and Issifu"));
+    
     	
       
 } 
